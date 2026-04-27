@@ -1,0 +1,17 @@
+services:
+  parser:
+    build: .
+    container_name: product-parser
+    volumes:
+      - ./output:/root/output
+    environment:
+      - OUTPUT_DIR=/root/output
+      - PROXY_URL=${PROXY_URL:-}
+      - CATEGORIES=${CATEGORIES:-1,2}
+      - STORE_ID=${STORE_ID:-1052}
+    networks:
+      - parser-network
+
+networks:
+  parser-network:
+    driver: bridge

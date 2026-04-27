@@ -1,0 +1,14 @@
+# Output data
+output/
+
+# Binary
+parser
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

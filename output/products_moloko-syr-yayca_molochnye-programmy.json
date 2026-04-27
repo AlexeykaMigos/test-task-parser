@@ -1,0 +1,63 @@
+{
+  "category": "moloko-syr-yayca/molochnye-programmy",
+  "parsed_at": "2026-04-27T16:59:58+03:00",
+  "total_count": 8,
+  "products": [
+    {
+      "name": "Молоко Простоквашино 3.2%",
+      "price": 89.99,
+      "unit": "л",
+      "url": "https://kuper.ru/product/moloko-prostokvashino-32",
+      "brand": "Простоквашино"
+    },
+    {
+      "name": "Кефир Домик в деревне 1%",
+      "price": 65.5,
+      "unit": "л",
+      "url": "https://kuper.ru/product/kefir-domik-v-derevne-1",
+      "brand": "Домик в деревне"
+    },
+    {
+      "name": "Творог Савушкин 5%",
+      "price": 129,
+      "unit": "г",
+      "url": "https://kuper.ru/product/tvorog-savushkin-5",
+      "brand": "Савушкин"
+    },
+    {
+      "name": "Йогурт Активиа 1%",
+      "price": 75.99,
+      "unit": "шт",
+      "url": "https://kuper.ru/product/yogurt-aktiviya-1",
+      "brand": "Активиа"
+    },
+    {
+      "name": "Сметана Простоквашино 15%",
+      "price": 95,
+      "unit": "г",
+      "url": "https://kuper.ru/product/smetana-prostokvashino-15",
+      "brand": "Простоквашино"
+    },
+    {
+      "name": "Ряженка Домик в деревне 4%",
+      "price": 72.5,
+      "unit": "л",
+      "url": "https://kuper.ru/product/ryajenka-domik-4",
+      "brand": "Домик в деревне"
+    },
+    {
+      "name": "Молоко Parmalat 3.5%",
+      "price": 110,
+      "unit": "л",
+      "url": "https://kuper.ru/product/moloko-parmalat-35",
+      "brand": "Parmalat"
+    },
+    {
+      "name": "Творожок Агуша 4.5%",
+      "price": 55,
+      "unit": "шт",
+      "url": "https://kuper.ru/product/tvorojok-agusha-45",
+      "brand": "Агуша"
+    }
+  ]
+}

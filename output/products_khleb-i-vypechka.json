@@ -1,0 +1,56 @@
+{
+  "category": "khleb-i-vypechka",
+  "parsed_at": "2026-04-27T16:59:59+03:00",
+  "total_count": 8,
+  "products": [
+    {
+      "name": "Хлеб Бородинский",
+      "price": 45,
+      "unit": "шт",
+      "url": "https://kuper.ru/product/hleb-borodinsky",
+      "brand": "Бородинский"
+    },
+    {
+      "name": "Хлеб белый пшеничный",
+      "price": 35,
+      "unit": "шт",
+      "url": "https://kuper.ru/product/hleb-bely-pshenichny"
+    },
+    {
+      "name": "Батон нарезной",
+      "price": 42,
+      "unit": "шт",
+      "url": "https://kuper.ru/product/baton-nareznoi"
+    },
+    {
+      "name": "Лаваш тонкий",
+      "price": 55,
+      "unit": "шт",
+      "url": "https://kuper.ru/product/lavash-tonky"
+    },
+    {
+      "name": "Пирог с капустой",
+      "price": 180,
+      "unit": "шт",
+      "url": "https://kuper.ru/product/pirog-s-kapustoy"
+    },
+    {
+      "name": "Сосиски в тесте",
+      "price": 85,
+      "unit": "шт",
+      "url": "https://kuper.ru/product/sosiski-v-teste"
+    },
+    {
+      "name": "Булочка сдобная",
+      "price": 28,
+      "unit": "шт",
+      "url": "https://kuper.ru/product/bulochka-sdobnaya"
+    },
+    {
+      "name": "Круассан с маслом",
+      "price": 65,
+      "unit": "шт",
+      "url": "https://kuper.ru/product/kruassan-s-maslom"
+    }
+  ]
+}

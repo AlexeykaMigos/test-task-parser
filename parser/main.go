@@ -53,7 +53,8 @@ func main() {
 		config.ProxyURL = args[0]
 	}
 
-	fmt.Println("=== Product Parser for Kuper.ru ===\n")
+	fmt.Println("=== Product Parser for Kuper.ru ===")
+	fmt.Println()
 
 	fmt.Printf("Using %d categories\n\n", len(categories))
 	for i, cat := range categories {

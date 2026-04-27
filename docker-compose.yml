@@ -1,0 +1,13 @@
+services:
+  parser:
+    build:
+      context: ./parser
+      dockerfile: Dockerfile
+    container_name: product-parser
+    environment:
+      OUTPUT_DIR: /root/output
+      PROXY_URL: ${PROXY_URL:-}
+      CATEGORIES: ${CATEGORIES:-1,2}
+      STORE_ID: ${STORE_ID:-1052}
+    volumes:
+      - ./output:/root/output
